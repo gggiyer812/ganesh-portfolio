@@ -25,7 +25,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Ganesh Iyer",
     specialty: "Seasoned Product Specialist",
     summary:
-      "Product Manager based in NY Metro, USA. I am an Product enthusiast, always on the look out to turn complex problem into innovative product offerings. I specialize in everything Product - from strategy to execution to GTM.",
+      "Product Manager based in NY Metro, USA. I am an Product enthusiast, always on the look out to turn complex problems into innovative product offerings. I specialize in everything Product - from strategy to execution to GTM.",
     email: "ganesh.iyer812@email.com",
   },
   experience: [
@@ -77,13 +77,13 @@ export const SITE_CONTENT: SiteContent = {
       image: "/Anomaly.gif",
     },
     {
-      name: "Data Marketplace Discover",
+      name: "Data Marketplace Discovery",
       summary: "NLP based semantic data asset discovery to seamlessly drive the adotpion of platform",
       image: "/Discovery.jpg",
     },        
     {
-      name: "Chord Lyric Fusion",
-      summary: "App for music lover that help decode mucis and get chords by instrument preference",
+      name: "Music Chord Generator",
+      summary: "App for music lovers that help decode music and get chords by instrument preference",
       image: "/MusicChord.png",
     },
       {
