@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/gggiyer812?tab=repositories" },
   ],
   socialImage: "/ganesh_social.jpeg",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://ganeshiyer.xyz",
 };
 
 export const SITE_CONTENT: SiteContent = {
