@@ -72,7 +72,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/AIAccel.gif",
     },
     {
-      name: "Data ANomaly Detection",
+      name: "Data Anomaly Detection",
       summary: "Single click experience to detect and flag anomalies on large scale data to ensure data integrity",
       image: "/Anomaly.gif",
     },
