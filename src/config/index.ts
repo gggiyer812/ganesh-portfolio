@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Ganesh Iyer — Technical Product Professional",
   author: "Ganesh Iyer",
   description:
-    "Product Manager based in NY Metro, USA. I am product enthusiast, and always on the look out to turn complex problem into innovative products I specialize in everything Product - from strategy to execution to GTM.",
+    "Product Manager based in NY Metro, USA. I am a product enthusiast, and always on the lookout to turn complex problems into innovative products I specialize in everything Product - from strategy to execution to GTM.",
   lang: "en",
   siteLogo: "/GaneshProfile.jpeg",
   navLinks: [
@@ -23,7 +23,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Ganesh Iyer",
-    specialty: "Seasoned Product Specialist",
+    specialty: "Product Specialist",
     summary:
       "Product Manager based in NY Metro, USA. I am an Product enthusiast, always on the look out to turn complex problems into innovative product offerings. I specialize in everything Product - from strategy to execution to GTM.",
     email: "ganesh.iyer812@email.com",
