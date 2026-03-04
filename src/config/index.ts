@@ -96,8 +96,14 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Expertise",
-      summary: "Product Strategy, Roadmap & Execution - Stakeholder Management - Analytics & AI - Data Governance & Quality - Cross-functional Leadership - Innovation & Problem Solving - Team Building & Mentorship- Technical Acumen  ",
-      image: "/Skills.jpg",
+      summary: [
+        "- Product - Strategy & Roadmap Execution",
+        "- Product Sense & Design",
+        "- Analytics & AI",
+        "- Innovation",
+        "- Techinical Design",
+        image: "/Skills.jpg",
+      ],
     },
   ],
   about: {
