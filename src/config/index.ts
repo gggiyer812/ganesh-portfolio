@@ -102,8 +102,8 @@ export const SITE_CONTENT: SiteContent = {
         "- Analytics & AI",
         "- Innovation",
         "- Techinical Design",
-        image: "/Skills.jpg",
       ],
+       image: "/Skills.jpg",
     },
   ],
   about: {
