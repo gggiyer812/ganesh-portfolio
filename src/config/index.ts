@@ -75,13 +75,13 @@ export const SITE_CONTENT: SiteContent = {
       image: "/Anomaly.gif",
     },
     {
-      name: "Data Marketplace Discovery",
-      summary: "NLP based semantic data asset discovery to seamlessly drive the adotpion of platform",
+      name: "Data Marketplace Intelligence",
+      summary: "Semantic Layer to Catalog, Organize, Store and NLP based data asset discovery to seamlessly drive the adotpion of platform",
       image: "/Discovery.jpg",
     },        
     {
       name: "Music Chord Generator",
-      summary: "App for music lovers that help decode music and get chords by instrument preference",
+      summary: "App for music lovers that help decode music and get chords by instrument preference. Generate Chords, sheet music and more",
       image: "/MusicChord.png",
     },
       {
