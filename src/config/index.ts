@@ -96,13 +96,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Expertise",
-      summary: [
-        "- Product - Strategy & Roadmap Execution",
-        "- Product Sense & Design",
-        "- Analytics & AI",
-        "- Innovation",
-        "- Techinical Design",
-      ],
+      summary: "Product Strategy.  -   Design Thinking.  -   Product Execution.  -   GTM.  -   Technical design.  -   Stakeholder Management   -   Product Champion and Leadership",
       image: "/Skills.jpg",
     },
   ],
