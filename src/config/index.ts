@@ -96,13 +96,13 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Expertise",
-      summary: [
+      summary: 
         "- Product - Strategy & Roadmap Execution",
         "- Product Sense & Design",
         "- Analytics & AI",
         "- Innovation",
         "- Techinical Design",
-      ],
+      ,
        image: "/Skills.jpg",
     },
   ],
